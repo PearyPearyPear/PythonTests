@@ -1,5 +1,5 @@
 import os
-
+# i am petux
 
 coinadd = 1
 coinamount = 0
